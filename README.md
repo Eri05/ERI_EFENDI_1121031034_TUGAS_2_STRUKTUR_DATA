@@ -1,0 +1,2 @@
+# ERI_EFENDI_1121031034_TUGAS_2_STRUKTUR_DATA
+untuk memenuhi tugas struktur data
